@@ -10,3 +10,16 @@ This project is based on the [Corona-Data](https://www.kaggle.com/mathewsanju/co
 1) **Dataset**- Contains the clean dataset for analysis
 2) **Notebook**- Contains a Jupyter Notebook file
 
+# Data Information
+**Country** - Data from worldometers dated March 2, 2020
+**Total Cases** - Data from worldometers dated March 2, 2020
+**Total Deaths** - Data from worldometers dated March 2, 2020
+**Total Recovered** - Data from worldometers dated March 2, 2020
+**Death Rate** - Total Deaths/(Total Deaths + Total Recovered)
+**Recovery Rate** - Total Recovered/(Total Deaths + Total Recovered)
+**Death Rate Tot** - Total Deaths/(Total Cases)
+**Recovery Rate Tot** - Total Recovered/(Total Cases)
+**Avg. Temp Feb 2020** - Data from accuweather
+Based on the data available in https://www.worldometers.info/coronavirus/#countries dated March 2, 2020
+Mean monthly temperature data for Feb 2020 taken from https://www.accuweather.com/
+
