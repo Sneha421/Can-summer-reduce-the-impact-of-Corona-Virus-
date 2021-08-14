@@ -3,16 +3,16 @@ First GitHub Repository
 
 An analysis of the effects of temperature on the containment of the corona virus
 
-# Dataset Used
+## Dataset Used
 This project is based on the [Corona-Data](https://www.kaggle.com/mathewsanju/corona-data) dataset available on Kaggle
 
 
-# Contents of each directory
+## Contents of each directory
 1) **Dataset**- Contains the clean dataset for analysis
 2) **Notebook**- Contains a Jupyter Notebook file
 
 
-# Data Information
+## Data Information
 **Country** - Data from worldometers dated March 2, 2020
 **Total Cases** - Data from worldometers dated March 2, 2020
 **Total Deaths** - Data from worldometers dated March 2, 2020
@@ -24,5 +24,8 @@ This project is based on the [Corona-Data](https://www.kaggle.com/mathewsanju/co
 **Avg. Temp Feb 2020** - Data from accuweather
 Based on the data available in https://www.worldometers.info/coronavirus/#countries dated March 2, 2020
 Mean monthly temperature data for Feb 2020 taken from https://www.accuweather.com/
+
+
+
 
 
