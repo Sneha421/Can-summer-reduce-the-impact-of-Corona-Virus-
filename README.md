@@ -11,6 +11,9 @@ This project is based on the [Corona-Data](https://www.kaggle.com/mathewsanju/co
 1) **Dataset**- Contains the clean dataset for analysis
 2) **Notebook**- Contains a Jupyter Notebook file
 
+## Team
+1) [Dipshikha Biswas](https://github.com/dipshikha461) - EDA
+2) [Sneha B](https://github.com/Sneha421) - Data Cleaning and Preprocessing
 
 ## Data Information
 **Country** - Data from worldometers dated March 2, 2020
